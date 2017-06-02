@@ -1,0 +1,37 @@
+20 donation        - 200
+10 donation        - 100
+5 donation         - 50
+1 donation         - 10
+
+watch advertisment - 10
+
+collect 25 ghost   - 10
+collect 50 ghost   - 20
+collect 100 ghost  - 30
+
+collect 25 time    - 10
+collect 50 time    - 20
+collect 100 time   - 30   
+
+collect 25 scale   - 10
+collect 50 scale   - 20
+collect 100 scale  - 30
+
+collect 100 power  - 10
+collect 250 power  - 20
+collect 500 power  - 30
+
+lose 100 times     - 10
+lose 250 times     - 20
+lose 500 times     - 30
+lose 1000 times    - 40
+
+100 time     - 10
+250 time     - 20
+500 time     - 50
+750 time     - 90
+1000 time    - 120
+
+Bronze - #CD7F32
+Silver - #C0C0C0
+Gold   - #FFDF00
